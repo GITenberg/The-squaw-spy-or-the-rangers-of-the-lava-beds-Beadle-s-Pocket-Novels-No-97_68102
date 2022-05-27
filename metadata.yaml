@@ -1,5 +1,8 @@
 _repo: The-squaw-spy-or-the-rangers-of-the-lava-beds-Beadle-s-Pocket-Novels-No-97_68102
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68102-h/images/cover-small.jpg
 creator:
   author:
     agent_name: Harbaugh, T. C. (Thomas Chalmers)
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/36351
     wikipedia: https://en.wikipedia.org/wiki/Thomas_Chalmers_Harbaugh
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68102#The-squaw-spy-or-the-rangers-of-the-lava-beds-Beadle-s-Pocket-Novels-No-97
 gutenberg_issued: '2022-05-17'
 identifiers:
   gutenberg: '68102'
